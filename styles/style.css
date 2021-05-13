@@ -186,8 +186,8 @@ main{
 
         position: absolute;
 
-        top: 140px;
-        right: 450px;
+        top: 170px;
+        right: 460px;
     }
 
     .faq-content h1{
@@ -256,7 +256,7 @@ main{
 
         position: absolute;
 
-        top: 140px;
+        top: 180px;
         right: 500px;
     }
 }
